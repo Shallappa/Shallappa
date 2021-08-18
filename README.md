@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shallappa
+- 👀 I’m interested in sciece
+- 🌱 I’m currently learning Arduino and python
