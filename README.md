@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Shallappa
-- 👀 I’m interested in sciece
+- 👀 I’m interested in science
 - 🌱 I’m currently learning Arduino and python
